@@ -1,0 +1,9 @@
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\bin\Debug\cifraViginere.exe.config
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\bin\Debug\cifraViginere.exe
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\bin\Debug\cifraViginere.pdb
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\obj\Debug\cifraViginere.csprojAssemblyReference.cache
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\obj\Debug\cifraViginere.Form1.resources
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\obj\Debug\cifraViginere.Properties.Resources.resources
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\obj\Debug\cifraViginere.csproj.GenerateResource.cache
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\obj\Debug\cifraViginere.exe
+C:\Users\ranie\source\repos\cifraViginere\cifraViginere\obj\Debug\cifraViginere.pdb
